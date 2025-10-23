@@ -1,0 +1,7 @@
+{
+  "name": "HairFlair",
+  "description": "An interactive application to preview different hairstyles and colors in real-time using your camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
